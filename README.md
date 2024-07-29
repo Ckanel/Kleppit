@@ -30,9 +30,8 @@ We are using these libraries and frameworks:
 - [MySQL](https://www.mysql.com/)
 - [Heroicons](https://heroicons.com/)
 
-Created by: 
-- Antonis Niotis
-- Christos Kanellopoulos
-- Nikolas Smyrloglou
-- Dionisis Pefanis 
-- Georgos Konstantes
+# Created by: 
+This project was a collaborative effort as a student project. My contributions to the project include:.
+ - Most of the PHP code was done by me, not including the 5 API calls of the main site or the pagination. 
+ - The front end design and code was written by Antonis.
+ - The pagination and API calls from Nikos.
