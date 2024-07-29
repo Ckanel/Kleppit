@@ -33,5 +33,5 @@ We are using these libraries and frameworks:
 # Created by: 
 This project was a collaborative effort as a student project. My contributions to the project include:
  - Most of the PHP code was done by me, not including the 5 API calls of the main site or the pagination. 
- - The front end design and code was written by [Antonis](https://github.com/Pet2Ant/).
+ - The front end design and code were written by [Antonis](https://github.com/Pet2Ant/).
  - The pagination and API calls from [Aurora](https://github.com/alepouna).
